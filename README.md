@@ -9,4 +9,5 @@ Add owner
 Remove owner
 Minimum quorum change (Requirement)
 Token withdrawal
+
 Owners can confirm or revoke for each agenda.
